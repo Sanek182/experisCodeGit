@@ -3,13 +3,13 @@ body, html {
     font-family: "Inconsolata", sans-serif;
   }
   
-  .bgimg {
+  .h1, .h2, .h3 {
     background-position: center;
     background-size: cover;
     background-image: url("/w3images/coffeehouse.jpg");
     min-height: 75%;
   }
   
-  .menu {
-    display: none;
+  .p {
+    color: green;
   }
